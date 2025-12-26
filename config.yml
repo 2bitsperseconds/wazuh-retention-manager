@@ -1,0 +1,4 @@
+retention_days: 95
+log_level: INFO  # Opciones: DEBUG, INFO, WARN, ERROR
+base_dir: /var/ossec/logs/alerts
+log_file: /opt/wazuh-retention-manager/wazuz-retention-manager.log
